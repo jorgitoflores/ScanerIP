@@ -3,7 +3,9 @@
  * and open the template in the editor.
  */
 package scanerip;
-
+/*
+BUENO INGENIERO NO FUE NADA FACIL REALIZAR ESTA PRACTICA, PERO AL FIN SE REALIZO.... BIEN
+*/
 /**
  *
  * @author MENDEZ
